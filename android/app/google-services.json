@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515915019297",
+    "firebase_url": "https://chat-app-fa212.firebaseio.com",
+    "project_id": "chat-app-fa212",
+    "storage_bucket": "chat-app-fa212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515915019297:android:6750bf7629c09adae71f60",
+        "android_client_info": {
+          "package_name": "com.pratik.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515915019297-g0goilmoq5bv4vecsespn52bquiclsqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NGh9XkvIw9dFlh_1eytaqWuJp9dxH2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515915019297-g0goilmoq5bv4vecsespn52bquiclsqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
